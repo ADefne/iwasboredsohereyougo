@@ -1,38 +1,39 @@
 [
     {
-        "image": "../assets/spider.PNG",
+        "image": "assets/spider.PNG",
         "name": "spider"
     },
     {
-        "image": "../assets/swim.JPG",
+        "image": "assets/swim.JPG",
         "name": "swim bri"
     },
     {
-        "image": "../assets/bat.JPG",
+        "image": "assets/bat.JPG",
         "name": "bat"
     },
     {
-        "image": "../assets/stretch.JPG",
+        "image": "assets/stretch.JPG",
         "name": "stretch"
     },
     {
-        "image": "../assets/not-so-nice.JPG",
+        "image": "assets/not-so-nice.JPG",
         "name": "not so nice"
     },
     {
-        "image": "../assets/tongue.JPG",
+        "image": "assets/tongue.JPG",
         "name": "tongue"
     },
     {
-        "image": "../assets/run.JPG",
+        "image": "assets/run.JPG",
         "name": "run"
     },
     {
-        "image": "../assets/pose.JPG",
+        "image": "assets/pose.JPG",
         "name": "pose"
     },
     {
-        "image": "../assets/fat.JPG",
+        "image": "assets/fat.JPG",
         "name": "fat"
     }
+
 ]
