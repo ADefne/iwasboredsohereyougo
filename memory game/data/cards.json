@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/spider.PNG",
+        "name": "spider"
+    },
+    {
+        "image": "../assets/swim.JPG",
+        "name": "swim bri"
+    },
+    {
+        "image": "../assets/bat.JPG",
+        "name": "bat"
+    },
+    {
+        "image": "../assets/stretch.JPG",
+        "name": "stretch"
+    },
+    {
+        "image": "../assets/not-so-nice.JPG",
+        "name": "not so nice"
+    },
+    {
+        "image": "../assets/tongue.JPG",
+        "name": "tongue"
+    },
+    {
+        "image": "../assets/run.JPG",
+        "name": "run"
+    },
+    {
+        "image": "../assets/pose.JPG",
+        "name": "pose"
+    },
+    {
+        "image": "../assets/fat.JPG",
+        "name": "fat"
+    }
+]
